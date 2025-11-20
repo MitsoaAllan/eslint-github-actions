@@ -1,4 +1,5 @@
 function getBalance(user){
+    return "Bonjour" + user;
 
 }
 
